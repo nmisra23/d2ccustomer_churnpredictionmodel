@@ -1,3 +1,1 @@
-# d2ccustomer_rfmsegmentation_retention
-# d2ccustomer_churnpredictionmodel
 # d2ccustomer_churnpredictionmodel
